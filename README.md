@@ -30,7 +30,7 @@ pip install -r requirements.txt
 Run the Jupyter Notebook to explore the full workflow:
 
 ```bash
-jupyter notebook sprint_9_ml_in_business.ipynb
+jupyter notebook sprint_eight_supervised_learning.ipynb
 ``` 
 
 Key sections:
