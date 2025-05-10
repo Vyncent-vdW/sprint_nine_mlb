@@ -42,12 +42,18 @@ Key sections:
 - Extract actionable insights to support decision-making and optimize resource management.
 
 ## 📂 Project Structure
-.
-├── sprint_9_ml_in_business.ipynb    # Main notebook
-├── data/                            # Contains raw and processed datasets
-├── models/                          # Saved model files (optional)
-├── requirements.txt                 # Python dependencies
-└── README.md                        # Project overview
+. 
+
+├── sprint_9_ml_in_business.ipynb    # Main notebook 
+
+├── data/                            # Contains raw and processed datasets 
+
+├── models/                          # Saved model files (optional) 
+
+├── requirements.txt                 # Python dependencies 
+
+└── README.md                        # Project overview 
+
 
 ## ✅ Requirements 
 - Python 3.8+
