@@ -1,4 +1,4 @@
-# 📘 Oil Well Reserves
+# 📘 Oil Well Region Selection
 This project showcases expertise in "Machine Learning in Business" as part of TripleTen's Data Science program. It focuses on analyzing and estimating oil well reserves using advanced data analysis techniques. The primary objectives are to deliver accurate reserve predictions, support decision-making in the energy sector, and optimize resource management.
 
 ## 🚀 Features
